@@ -96,8 +96,6 @@ FeedBacK : Ваш отзыв очень важен 👉 [Telegram](https://t.me/
 ___
 ##ENG
 
-#Starknet_balance
-
 This script is designed to check the balance of STARKNET wallets.
 
 ## Contents

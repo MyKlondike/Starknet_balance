@@ -92,7 +92,7 @@ FeedBacK : Ваш отзыв очень важен 👉 [Telegram](https://t.me/
 [Chat](https://t.me/Klondike_Talks) <br>
 
 🍩 (EVM): 0xe93081718a75818Be2eB1E1336c8c2AC930e44e0:
-```
+
 ___
 ##ENG
 

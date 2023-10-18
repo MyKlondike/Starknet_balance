@@ -94,7 +94,7 @@ TOKENS LIST
 
 🍩 (EVM): 0xe93081718a75818Be2eB1E1336c8c2AC930e44e0:
 ```python
-print("             FeedBacK : https://t.me/MyKlondike  \n", )
-print("             Чат 🐸:  https://t.me/Klondike_Talks  \n", )
-print("         🍩: 0xe93081718a75818Be2eB1E1336c8c2AC930e44e0  ", )
+"             FeedBacK : https://t.me/MyKlondike  \n", )
+"             Чат 🐸:  https://t.me/Klondike_Talks  \n", )
+"         🍩: 0xe93081718a75818Be2eB1E1336c8c2AC930e44e0  ", )
 ```

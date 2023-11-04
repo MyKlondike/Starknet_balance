@@ -186,7 +186,7 @@ List of tokens and their corresponding contract addresses on the Starknet networ
 
 ## Feedback
 ## Обратная связь <a name="обратная-связь"></a>
-**Донат 🍩**
+**🍩**
 FeedBacK ADDRESS (EVM): `0xe93081718a75818Be2eB1E1336c8c2AC930e44e0`
 
 [Telegram канал](https://t.me/MyKlondike) **💰**

@@ -87,12 +87,13 @@ TOKENS LIST
 - Скрипт проверяет баланс кошельков STARKNET и записывает результаты в файл CSV (`res.csv`).
 - Результаты содержат адрес кошелька и баланс для каждого токена из списка STARKNET_TOKENS.
 
-## Обратная связь
-FeedBacK : Ваш отзыв очень важен 👉 [Telegram](https://t.me/MyKlondike) <br>
-Вы можете поделиться своим мнением и предложениями в 🐸
-[Chat](https://t.me/Klondike_Talks) <br>
+## Обратная связь <a name="обратная-связь"></a>
+**Донат 🍩**
+FeedBacK ADDRESS (EVM): `0xe93081718a75818Be2eB1E1336c8c2AC930e44e0`
 
-🍩 (EVM): 0xe93081718a75818Be2eB1E1336c8c2AC930e44e0:
+[Telegram канал](https://t.me/MyKlondike) **💰**
+
+[Чат](https://t.me/Klondike_Talks) **🗿**
 
 ___
 ## ENG
@@ -184,9 +185,11 @@ List of tokens and their corresponding contract addresses on the Starknet networ
 - The results contain the wallet address and balance for each token from the STARKNET_TOKENS list.
 
 ## Feedback
-FeedBacK: Your feedback is very important 👉 [Telegram](https://t.me/MyKlondike) <br>
-You can share your opinions and suggestions on 🐸
-[Chat](https://t.me/Klondike_Talks) <br>
+## Обратная связь <a name="обратная-связь"></a>
+**Донат 🍩**
+FeedBacK ADDRESS (EVM): `0xe93081718a75818Be2eB1E1336c8c2AC930e44e0`
 
-🍩 (EVM): 0xe93081718a75818Be2eB1E1336c8c2AC930e44e0:
+[Telegram канал](https://t.me/MyKlondike) **💰**
+
+[Чат](https://t.me/Klondike_Talks) **🗿**
 ```

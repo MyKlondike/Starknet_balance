@@ -116,7 +116,7 @@ async def main():
     print(f"Результат проверки баланс {len(wallets)} кошельков записан в файл res.csv \n")
     print("                 Тебе понравилось? ʕ ᵔᴥᵔ ʔ \n", )
     print("             FeedBacK : https://t.me/MyKlondike  \n", )
-    print("             Чат 🐸:  https://t.me/Klondike_Talks  \n", )
+    print("             Чат 🐸:  https://t.me/KlondikeCo  \n", )
     print("         🍩: 0xe93081718a75818Be2eB1E1336c8c2AC930e44e0  ", )
 
 
